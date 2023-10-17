@@ -1,0 +1,9 @@
+.perfil {
+    max-width: 50px;
+}
+
+.nav {
+    flex-basis: 300px;
+    text-align: left;
+    flex-direction: column;
+}
